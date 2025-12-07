@@ -53,7 +53,7 @@ I have a dream, a hole system of electronics and devices for the live event indu
 |R1                     |0805                                                                          |1       |2.2k ohm |C17520     |
 |SW1                    |SW_DIP_SPSTx01_Slide_9.78x4.72mm_W8.61mm_P2.54mm                              |1       |On Switch|C3293151   |
 |JLCPCB Quote: 6.54 Dollar|                                                                            |        |         |           |
-|LCSC Quote: 25.25 Dollar |                                                                            |        |         |           |
-|Quote: 31.79 Dollar      |                                                                            |        |         |           |
+|LCSC Quote: 26.14 Dollar |                                                                            |        |         |           |
+|Quote: 32.68 Dollar      |                                                                            |        |         |           |
 
 </details>
